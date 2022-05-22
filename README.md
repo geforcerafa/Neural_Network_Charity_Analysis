@@ -146,7 +146,7 @@ Epoch 43:
 
 ### Other recommendations
 
-To solve this classification problem would be to use a Random Forest in Machine learning. These techniques are very similar and could give better results. Also, with this technique we are going to se how much every feature contributes to the target. With that information we can eliminate unnecessary features in the preprocess stage. 
+To solve this classification problem would be to use a Random Forest in Machine learning. These techniques are very similar and could give better results. Also, with this technique we are going to see how much every feature contributes to the target. With that information we can eliminate unnecessary features in the preprocess stage. 
 
 With time and computational power there is the possibility to make a function that changes the different inputs, to find a robust zone were the accuracy is high for a variety of similar inputs. 
 
